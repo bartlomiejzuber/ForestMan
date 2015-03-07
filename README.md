@@ -8,10 +8,10 @@ Poniższa dokumentacja dotyczy prostej gry platformowej stworzone w bibliotece S
 
 # Manual:
 Sterowanie:
-*A - poruszanie się w lewo
-*D - poruszanie się w prawo
-*Spacja - skok
-*Lewy CTRL - atak
+* A - poruszanie się w lewo
+* D - poruszanie się w prawo
+* Spacja - skok
+* Lewy CTRL - atak
 
 *Lista zmian:*
 * 1.0a(wersja stabilna) - Zmiana sposobu wyświetlania przeciwnika-bossa, zmiana sposobu wygrania gry.
