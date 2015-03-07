@@ -1,2 +1,2 @@
 # ForestMan
-Prosta gra platformowa w SFML 2.1
+Prosta gra platformowa stworzona w bibliotece SFML 2.1.
