@@ -7,6 +7,7 @@ Data wydania stabilnej wersji: 05-01-2015
 Simple c++ game, maded with SFML (v 2.1).
 
 Polish documentation: [Czytaj tutaj!](docs/README_ENGLISH.md)
+
 English documentation: [Read more words!](docs/README_POLISH.md)
 
-## Screenshots:
+### Screenshots:
