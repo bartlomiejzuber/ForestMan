@@ -11,5 +11,3 @@ Simple c++ game, maded with SFML (v 2.1).
 Polish documentation: [Czytaj tutaj!](docs/README_POLISH.md)
 
 English documentation: [Read more words!](docs/README_ENGLISH.md)
-
-### Screenshots:
