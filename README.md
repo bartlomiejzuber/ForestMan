@@ -1,4 +1,6 @@
-ForestMan 1.0a
+#ForestMan [![BAJTAS.PL](https://img.shields.io/badge/bajtas.pl-ForestMan-ffb400.svg?style=flat-square)](http://bajtas.pl) 
+
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 ==================
 Data wydania stabilnej wersji: 05-01-2015
 
