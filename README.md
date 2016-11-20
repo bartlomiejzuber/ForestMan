@@ -1,4 +1,4 @@
-#ForestMan [![BAJTAS.PL](https://img.shields.io/badge/bajtas.pl-ForestMan-ffb400.svg?style=flat-square)]
+#ForestMan ![BAJTAS.PL](https://img.shields.io/badge/bajtas.pl-ForestMan-ffb400.svg?style=flat-square)
 ==================
 Data wydania stabilnej wersji: 05-01-2015
 
