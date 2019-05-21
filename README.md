@@ -2,7 +2,7 @@
 ==================
 Data wydania stabilnej wersji: 05-01-2015
 
-(C) Copyright 2015 Bartłomiej Żuber <bajtas@gmail.com>
+(C) Copyright 2015 Bartłomiej Żuber <bartlomiej.zuber@outlook.com>
 
 ![Alt text](/docs/menu.jpg?raw=true "Menu")
 
